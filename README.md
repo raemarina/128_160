@@ -1,3 +1,5 @@
 # Construction-of-local-nearrings-on-additive-group-[128,160]
 Ya. Sysak, I. Raievska, M. Raievska (2025)
 Using a programming language of GAP, we constructed a general algorithm which allows us to classify local nearrings of order 128
+
+#To run the program, use the following command in the terminal of GAP #Read("End128_160base.g");
